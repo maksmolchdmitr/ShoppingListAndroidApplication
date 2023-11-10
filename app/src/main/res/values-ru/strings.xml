@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Список покупок</string>
+    <string name="add_new_item">Добавить новый элемент</string>
+    <string name="enter_item_name">Введите имя элемента</string>
+    <string name="remove_last_item">Удалить последний элемент</string>
+    <string name="no_items_left">Элементов нет!</string>
+    <string name="item_name_must_be_not_empty">Название элемента должно быть не пустым!</string>
+</resources>
