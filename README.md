@@ -1,3 +1,7 @@
 # ShoppingListAndroidApplication
 
-[[video_2023-11-10_05-49-32.mp4](videos/video.mp4)](https://github.com/maksmolchdmitr/ShoppingListAndroidApplication/blob/master/videos/video.mp4)https://github.com/maksmolchdmitr/ShoppingListAndroidApplication/blob/master/videos/video.mp4
+
+
+
+https://github.com/maksmolchdmitr/ShoppingListAndroidApplication/assets/62752481/af9089da-7ded-46a5-9fe9-0e4560eb8b73
+
